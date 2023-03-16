@@ -1,0 +1,29 @@
+{
+  "name": "node-portfolio",
+  "version": "1.0.0",
+  "description": "This is a project, where the theory of node is shown on a website, and a portfolio with some information about the author",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unknown1321/Node-Portfolio.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "portfolio",
+    "nodemon"
+  ],
+  "author": "Unknown1321",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Unknown1321/Node-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Unknown1321/Node-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
