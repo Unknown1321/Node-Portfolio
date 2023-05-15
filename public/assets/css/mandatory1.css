@@ -1,0 +1,91 @@
+.title h1 {
+    color: #011c36;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-left: 15px;
+  }
+
+  .sub-title {
+    text-align: center;
+  }
+
+.sub-title h3 {
+    color: #021f3c;
+    display: block;
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-left: 15px;
+  }
+
+  .sub-title p {
+    color: #333333;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-left: 15px;
+  }
+
+  .terminal-commands{
+    margin-top: 7em;
+    text-align: center;
+  }
+
+  .terminal-commands h3 {
+    color: #333333;
+    font-size: 26px;
+    line-height: 1.5;
+    margin-left: 15px;
+  }
+
+  .terminal-commands p {
+    color: #333333;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-left: 15px;
+  }
+
+  .code-snippets{
+    text-align: center;
+  }
+
+  .code-snippets h3{
+    color: #021f3c;
+    display: block;
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-left: 15px;
+    
+  }
+
+  .code-snippets img{
+    margin-bottom: 10px;
+    margin-left: 50px;
+  }
+
+  .tools-used {
+    text-align: center;
+  }
+
+  .tools-used h4{
+    color: #021f3c;
+    display: block;
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-left: 15px;
+  }
+
+  .theory {
+    text-align: center;
+    margin-top: 15px;
+  }
+
+  .theory p{
+    color: #333333;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-left: 15px;
+    
+  }

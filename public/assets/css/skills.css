@@ -135,6 +135,7 @@
 /* CSS For Skills Icons*/
 
 .skills-icons {
+    border-radius: 10px;
     width: 50px;
     z-index: 2;
 }
